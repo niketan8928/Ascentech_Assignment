@@ -1,5 +1,8 @@
 # Ascentech_assignment
 
+name - Niketan gawade
+sardar patel institute of technology
+
 frontend 
 https://github.com/niketan8928/Ascentech_assignment_frontend.git
 
